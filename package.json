@@ -1,0 +1,18 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "ToDo List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaal Bhairav & Yesveer Singh\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[3~\u001b[C\u001b[C\u001b[,\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D & Mr. DexTer",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.2",
+    "parser": "^0.1.4"
+  }
+}
